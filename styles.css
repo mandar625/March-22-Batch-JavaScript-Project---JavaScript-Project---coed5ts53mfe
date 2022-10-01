@@ -7,21 +7,25 @@
   }
   
   body {
-    background: #109e96;
+    background-image: url(Maths-HD-Wallpapers-Image.jpg);
   }
   
   h1{
+    color: white;
+    text-decoration: underline;
     text-align: center;
-    padding: 10px;
+    padding: 10px
   }
   .wrapper {
     height: 525px;
     width: 525px;
     color: white;
-    background: #a12323;
+    background: #6d6c71;
+
     border-radius: 1rem;
     padding: 1.2rem;
     margin: 30px auto;
+    opacity: 0.9;
   }
   
   #topContainer {
@@ -38,7 +42,8 @@
   }
   
   .inputContainer {
-    background: #353959;
+    background: #3a3333;
+
     border-radius: 1.4rem;
     padding: 0 0.8rem;
     display: flex;
